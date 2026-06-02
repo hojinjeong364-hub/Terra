@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999662555300",
+    "project_id": "terra-d1db8",
+    "storage_bucket": "terra-d1db8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999662555300:android:77012d8433bd2fee481631",
+        "android_client_info": {
+          "package_name": "com.hojinj.terra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHXFPHR3pSC2D5K6KguPKvIgb3DB5d3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
