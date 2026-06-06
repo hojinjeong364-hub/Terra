@@ -43,7 +43,7 @@ MVP failure handling is based on Activity lifecycle detection.
 
 ```text
 If timerRunning == true
-and the FOcus Timer screen moves to background
+and the Focus Timer screen moves to background
 and the move was not caused by an approved in-app action,
 then save the session as destroyed.
 ```
